@@ -9,4 +9,5 @@ command is  :
 sh runpdf.sh inputfilename[first arg] outputfilename[second arg]
 
 
+make sure you have already installed imagemagick in yout machine
 and you are done :)
